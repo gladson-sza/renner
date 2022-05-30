@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="br.com.renner.app.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_navigation_home_to_productActivity"
+            app:destination="@id/productActivity" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_blog"
+        android:name="br.com.renner.app.ui.blog.BlogFragment"
+        android:label="fragment_blog"
+        tools:layout="@layout/fragment_blog" />
+    <fragment
+        android:id="@+id/navigation_card"
+        android:name="br.com.renner.app.ui.card.CardFragment"
+        android:label="fragment_card"
+        tools:layout="@layout/fragment_card" />
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="br.com.renner.app.ui.favorite.FavoriteFragment"
+        android:label="fragment_favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/navigation_menu"
+        android:name="br.com.renner.app.ui.menu.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" />
+    <activity
+        android:id="@+id/productActivity"
+        android:name="br.com.renner.app.ui.product.ProductActivity"
+        android:label="activity_product"
+        tools:layout="@layout/activity_product" >
+        <argument
+            android:name="product"
+            app:argType="br.com.renner.app.data.Product" />
+    </activity>
+</navigation>

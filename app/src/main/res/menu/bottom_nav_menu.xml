@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_bag"
+        android:title="Loja Virtual" />
+
+    <item
+        android:id="@+id/navigation_blog"
+        android:icon="@drawable/ic_blog"
+        android:title="Blog" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favoritos" />
+
+    <item
+        android:id="@+id/navigation_card"
+        android:icon="@drawable/ic_credit_card"
+        android:title="Cartões" />
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_menu"
+        android:title="Menu" />
+
+</menu>

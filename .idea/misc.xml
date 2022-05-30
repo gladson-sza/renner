@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/drawable/bg_custom_button.xml" value="0.112" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/drawable/bg_custom_button_grey.xml" value="0.288" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/drawable/bg_green.xml" value="0.322" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/drawable/subtitled_button.xml" value="0.1565" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/activity_main.xml" value="0.4685185185185185" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/activity_product.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/custom_button.xml" value="0.5" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/custom_button_grey.xml" value="0.5" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/custom_button_red.xml" value="0.67" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/fragment_blog.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/fragment_card.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/fragment_favorite.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/fragment_menu.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/include_product.xml" value="0.5" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/item_category.xml" value="0.5" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/item_product.xml" value="0.1" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/layout_color_chooser.xml" value="0.5" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/layout_product.xml" value="0.33" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/layout/toolbar.xml" value="0.2057460611677479" />
+        <entry key="..\:/Users/Gladson/AndroidStudioProjects/Renner/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
